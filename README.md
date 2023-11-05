@@ -3,6 +3,6 @@ This is my Dissertation Project on Greechie Diagrams using Python. I have utiliz
 This project has multiple functions that each generate a variety of Greechie diagrams. 
 There are 3 other functions that validate Greechie diagrams and Orthoalgebras and also generate Hasse diagrams for valid Orthoalgebras.
 
-You can go through the Research paper below to understand Greechie diagrams better: 
+I have attached my Dissertation thesis that explains my work. You can go through the Research paper below to understand Greechie diagrams better: 
 https://arxiv.org/pdf/quant-ph/0009039
 
